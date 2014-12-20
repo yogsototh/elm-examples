@@ -28,5 +28,7 @@ Check it out!
 
 [localhost]: http://localhost:8000
 
+If you want to run the `mario` example, just launch the command `elm-reactor` in the `mario` directory.
+
 If you want more examples to mess with, try taking something from the
 [examples page](http://elm-lang.org/Examples.elm).
